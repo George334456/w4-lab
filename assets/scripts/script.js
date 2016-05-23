@@ -2,6 +2,8 @@ window.onload = function() {
     
     draw();
     
+    //animateO;
+    
 } // window.onload
 
 
@@ -9,7 +11,7 @@ window.onload = function() {
 // Let's create a draw function for the canvas
 function draw () {
     
-    // Your code here
+    // Your drawing code here
     
 }
 
@@ -22,5 +24,3 @@ function animate() {
     
     setTimeout(animate, 33);
 }
-
-animateO;
