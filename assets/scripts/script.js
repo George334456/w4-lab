@@ -17,7 +17,6 @@ function draw () {
 
 
 // Let's animate!
-
 function animate() {
     
     // Your animations here
