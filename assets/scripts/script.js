@@ -12,3 +12,15 @@ function draw () {
     // Your code here
     
 }
+
+
+// Let's animate!
+
+function animate() {
+    
+    // Your animations here
+    
+    setTimeout(animate, 33);
+}
+
+animateO;
